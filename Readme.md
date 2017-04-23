@@ -1,7 +1,7 @@
 ## Implementation Of Inter-Process Communication in Linux Environment Using C Language
 
 * writer.c : Program to write string to FIFO buffers
-* reader.c : Program to read string wriiten by writer process
+* reader.c : Program to read string written by writer process
 
 ##### Note: Both programs must be executed concurrently 
 
